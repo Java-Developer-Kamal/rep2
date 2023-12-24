@@ -1,1 +1,1 @@
-smdc
+gitsmdc
